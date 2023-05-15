@@ -22,7 +22,7 @@ im mohammad taghinasab, a web programmer. I just do my best in everything.
 ## 📊 My Stats :
 [![](http://github-readme-streak-stats.herokuapp.com?user=mohmdtn&theme=tokyonight&include_all_commits=true&count_private=true)](https://git.io/streak-stats)
 ![](https://github-readme-stats.vercel.app/api?username=mohmdtn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohmdtn&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohmdtn&theme=tokyonight&include_all_commits=true&count_private=true)
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohmdtn&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
