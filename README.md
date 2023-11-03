@@ -12,6 +12,7 @@ im mohammad taghinasab, a web programmer. I just do my best in everything.
 <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg"        alt="nextJs" width="40px" height="40px">&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg"         alt="mui" width="40px" height="40px">&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"                     alt="sass" width="40px" height="40px">&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="sass" width="40px" height="40px">&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"                       alt="php" width="40px" height="40px">&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg"         alt="laravel" width="40px" height="40px">&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg"          alt="mysql" width="40px" height="40px">&nbsp;
