@@ -6,15 +6,16 @@ im mohammad taghinasab, a web programmer. I just do my best in everything.
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg"          alt="html" width="40px" height="40px">&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg"            alt="css3" width="40px" height="40px">&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"         alt="javaScript" width="40px" height="40px">&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg"            alt="typeScript" width="40px" height="40px">&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg"        alt="jQuery" width="40px" height="40px">&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg"  alt="bootstrap" width="40px" height="40px">&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg"          alt="reactJs" width="40px" height="40px">&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg"        alt="nextJs" width="40px" height="40px">&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg"         alt="mui" width="40px" height="40px">&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"                     alt="sass" width="40px" height="40px">&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg"          alt="tailwind" width="40px" height="40px">&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg"       alt="tailwind" width="40px" height="40px">&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"                       alt="php" width="40px" height="40px">&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg"         alt="laravel" width="40px" height="40px">&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg"               alt="laravel" width="40px" height="40px">&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg"          alt="mysql" width="40px" height="40px">&nbsp;
 
 
